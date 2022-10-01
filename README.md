@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arvhit1213
+- 👋 Hi, I’m Archit Tiwari
 - 👀 I’m interested in Technical work
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning DSA and React js
 - 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me +916399108739
 
